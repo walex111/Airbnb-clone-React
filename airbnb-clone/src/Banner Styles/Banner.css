@@ -1,0 +1,44 @@
+.banner {
+  background: url("https://media.cntraveler.com/photos/6053af14f490bda87b43dfc3/16:9/w_2560%2Cc_limit/01-velo-header-houston-twilight-epiphany.jpg");
+  background-size: cover;
+  height: 57vh;
+  position: relative;
+}
+
+.banner .banner__search {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.banner .banner__search .banner__searchButton {
+  background-color: #fff !important;
+  font-weight: 300 !important;
+  text-transform: inherit !important;
+  color: #ff7779;
+}
+
+.banner .banner__info {
+  background-color: #000;
+  color: #fff;
+  padding: 25vh 50px 40px 50px;
+  width: 300px;
+}
+
+.banner .banner__info Button {
+  background-color: #ff7779;
+  color: #fff;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.banner .banner__info Button:hover {
+  background-color: #fff;
+  color: #ff7779;
+}
+/*# sourceMappingURL=Banner.css.map */
