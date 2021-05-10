@@ -1,1 +1,7 @@
-/* No CSS *//*# sourceMappingURL=Home.css.map */
+.home__section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px;
+}
+/*# sourceMappingURL=Home.css.map */
